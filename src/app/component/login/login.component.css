@@ -1,0 +1,27 @@
+  
+ .imgLogo {
+    margin-left: 110px;
+     
+    width: 31px;
+    height: 20px;
+    opacity: 1;
+    float: left;
+}
+
+.title {
+     
+    font: Regular 20px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    display: inline-block;
+    margin-right: 200px;
+}
+
+.menu {
+    width: 500px;
+    min-height: 550px;
+    margin-top: 200px;
+    border-style: outset;
+}
